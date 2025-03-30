@@ -1,5 +1,11 @@
 # Torque
 
+直流电机全桥驱动电路
+供电:6-11V
+
+驱动IC：IR2104S
+供电IC：max1771
+
 ![image](https://github.com/user-attachments/assets/e280374d-7011-4149-9f32-968bddb75e5d)
 
 
